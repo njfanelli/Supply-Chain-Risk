@@ -27,7 +27,7 @@
 <li>The solution is approved for use, the customers Security team is to remain involved during the planning, development, testing and implementation phases to ensure no additional risk is introduced.</li>
 <li>Once the solution has been implemented it is to be re-assessed/evaluated on a regular basis, the customers Security team will create a reminder to trigger an event at the time defined within organizations policy.</li>
 </ol>
-<p>&nbsp;<img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Workflow.png" alt="" /><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Workflow.png" alt="" /></p>
+<p>&nbsp;<img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Workflow.png" alt="" /></p>
 <hr />
 <h2>Assess Questionnaire</h2>
 <p>This workbook contains the following worksheets (tabs):</p>
