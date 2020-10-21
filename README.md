@@ -56,7 +56,7 @@
 </ul>
 </li>
 </ul>
-<p style="text-align: center;"><em>Screenshot of the Vendor Questionnaire tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Questionnaire.png" alt="Screenshot of the Vendor Questionnaire tab" /></em></p>
 <p>&nbsp;&nbsp;</p>
 <ul>
 <li><strong>Assessment Results</strong> &ndash; Based on the responses received by the Vendor &amp; Customers Application Team, this tab will summarize the following for the solution:
@@ -71,18 +71,12 @@
 </ul>
 </li>
 </ul>
-<p style="text-align: center;"><em>Screenshot of the Assessment Results tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Results.png" alt="Screenshot of the Assessment Results tab" /></em></p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Guide</strong> &ndash; Provides on overview on this tool as well as the expected process follow (which your welcome to modify).</li>
 <li><strong>Revisions </strong>&ndash; Will display the change history of the tool as it matures.</li>
-</ul>
-<p style="text-align: center;"><em>Screenshot of the Revisions Tab</em></p>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Technology Master</strong> &ndash; This tab is critical to the overall workbook as it contains the total population of questions within the tool and it outlines how those questions are mapped back to various attributes, any changes to the questions (or attributes linked to these questions) should be made within this sheet as it will self-correct the Vendor Questionnaire tab.
-<ul>
-<li><u>Details on the columns defined and their purpose:</u>
+<li><strong>Technology Master</strong> &ndash; This tab is critical to the overall workbook as it contains the total population of questions within the tool and it outlines how those questions are mapped back to various attributes, any changes to the questions (or attributes linked to these questions) should be made within this sheet as it will self-correct the Vendor Questionnaire tab.&nbsp;&nbsp;<u>Details on the columns defined and their purpose:</u>
 <ul>
 <li><strong>Category </strong>&ndash; CIS Controls V7 separates the controls into three distinct categories: basic, foundational, and organizational.
 <ul>
@@ -116,8 +110,6 @@
 <li>Incident Response and Management</li>
 <li>Penetration Tests and Red Team Exercises</li>
 </ol>
-</li>
-</ul>
 </li>
 </ul>
 </li>
@@ -159,9 +151,9 @@
 </ul>
 </li>
 </ul>
-<p style="text-align: center;"><em>Screenshot of the Technology Master tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Master.png" alt="Screenshot of the Technology Master tab" /></em></p>
 <p>&nbsp;</p>
-<p style="text-align: center;"><em>Screenshot of the Attack Summary table under the Vendor Questionnaire tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Attack.png" alt="Screenshot of the Attack Summary table under the Vendor Questionnaire tab" /></em></p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Risk Calc</strong> &ndash; This tab is also critical to the overall workbook as the information that is defined within here will determine the grading scale for how the solution is assessed. The Risk Calc worksheet is broken up into three sections&hellip; Data Value Calculation, Risk Exposure Calculation and Risk Appetite Calculation, each are explained in further detail below.&nbsp; NOTE: Throughout this worksheet practitioners are encouraged to work with their leadership to ensure the values defined in RED align with views and expectations of the organization.</li>
@@ -217,18 +209,18 @@
 </ul>
 </li>
 </ul>
-<p style="text-align: center;"><em>Screenshot of the Risk Calc tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-RiskCalc.png" alt="Screenshot of the Risk Calc tab" /></em></p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Customer Gap Calc</strong> &ndash; This tab is calculating the questions where the vendor has responded CUSTOMER RESPONSIBILTY to a question, all the CUSTOMER RESPONSIBILTY&rsquo;s are filtered, sorted then presented into the Assessment Result tab under the &ldquo;Controls Customer is Responsible in addressing&rdquo;.</li>
 </ul>
-<p style="text-align: center;"><em>Screenshot of the Customer Gap Calc tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-CusGap.png" alt="Screenshot of the Customer Gap Calc tab" /></em></p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Vendor Gap Calc</strong> &ndash; This tab is calculating the questions where the vendor has responded NO to a question, all the NO&rsquo;s are filtered, sorted then presented into the Assessment Result tab under the &ldquo;Controls Gaps Identified in Vendor Response&rdquo;.</li>
 </ul>
 <p>&nbsp;</p>
-<p style="text-align: center;"><em>Screenshot of the Vendor Gap Calc tab</em></p>
+<p style="text-align: center;"><em><img src="https://github.com/njfanelli/Supply-Chain-Risk/blob/main/Image-Vendor%20Gap.png" alt="Screenshot of the Vendor Gap Calc tab" /></em></p>
 <p>&nbsp;</p>
 <p>Additional Resources/Tabs within this workbook:</p>
 <ul>
