@@ -13,10 +13,11 @@
 </ul>
 <p>This repository contains the following files:</p>
 <ol>
-<li>SCRA Guide v1.doc - provides an overview on the tool and its use (same as the Readme here but something that can be taken offline).</li>
-<li>SCRA Questionnaire v1 - Locked.xlsx - this is how the tool is to be distributed to third parties, the worksheet and workbook is protected with the password of "lockitup!" (without the quotes), once you unlock the tool you'll be able to unhide any necessary tabs to review and/or make changes.</li>
-<li>SCRA Questionnarie v1 - Unlocked.xlsx - if you downloaded the prior file this is not necessary (you only need one or the other), i'm providing an unlocked view for those interested and don't want to go through the hassle of unprotecting &amp; unhide all sheets.</li>
+<li><strong>SCRA Guide v1.doc</strong> - provides an overview on the tool and its use (same as the Readme here but something that can be taken offline).&nbsp;</li>
+<li><strong>SCRA Questionnaire v1 - Locked.xlsx</strong> - this is how the tool is to be distributed to third parties, the worksheet and workbook is protected with the password of "lockitup!" (without the quotes), once you unlock the tool you'll be able to unhide any necessary tabs to review and/or make changes.</li>
+<li><strong>SCRA Questionnarie v1 - Unlocked.xlsx</strong> - if you downloaded the prior file this is not necessary (you only need one or the other), i'm providing an unlocked view for those interested and don't want to go through the hassle of unprotecting &amp; unhide all sheets.</li>
 </ol>
+<p>For a quick view on what an assessment would look completed&nbsp;I've put together&nbsp;<strong>SCRA Questionnaire v1&nbsp;- SAMPLE.xlsx.</strong></p>
 <hr />
 <p>&nbsp;</p>
 <h2>Assessment Process</h2>
