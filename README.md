@@ -1,17 +1,22 @@
 <h2><strong>Overview</strong></h2>
 <p>Supply Chain Risk Management is common challenge for organizations and as many fight to keep their supply chain under control we often look for more effective ways to assess risk being introduced into the environment.&nbsp; To address this challenge the Supply Chain Risk Assessment (SCRA) tool was created to assist organizations in identifying, evaluating and reporting risk within the supply chain process.&nbsp;</p>
-<p>&nbsp;</p>
 <p>SCRA was developed with the following goals in mind:</p>
 <ul>
-<li>The foundation of the tool must be based on a common framework.</li>
-<li>There must be a cross walk for the questions defined to other standards/regulations.</li>
+<li>Foundation of the tool must be based on a common framework.</li>
+<li>Provide a cross walk for the questions defined to other standards/regulations.</li>
 <li>Remove the ambiguity in vendor responses.</li>
-<li>Eliminate the subjectivity in the scoring process.</li>
+<li>Reduce the subjectiveness in the scoring process.</li>
 <li>Provide an efficient way to identify gaps in the vendor response.</li>
 <li>Map assessments results to the tolerance levels defined by leadership.</li>
 <li>Offer an Executive Summary of the assessment.</li>
-<li>The tool must be macro/script free.</li>
+<li>Must be macro/script free.</li>
 </ul>
+<p>This repository contains the following files:</p>
+<ol>
+<li>SCRA Guide v1.doc - provides an overview on the tool and its use (same as the Readme here but something that can be taken offline).</li>
+<li>SCRA Questionnaire v1 - Locked.xlsx - this is how the tool is to be distributed to third parties, the worksheet and workbook is protected with the password of "lockitup!" (without the quotes), once you unlock the tool you'll be able to unhide any necessary tabs to review and/or make changes.</li>
+<li>SCRA Questionnarie v1 - Unlocked.xlsx - if you downloaded the prior file this is not necessary (you only need one or the other), i'm providing an unlocked view for those interested and don't want to go through the hassle of unprotecting &amp; unhide all sheets.</li>
+</ol>
 <hr />
 <p>&nbsp;</p>
 <h2>Assessment Process</h2>
